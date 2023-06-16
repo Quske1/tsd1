@@ -9,11 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~48.0.18",
-    "expo-splash-screen": "~0.18.2",
+    "exceljs": "^4.3.0",
+    "expo": "^46.0.21",
+    "expo-camera": "~12.5.0",
+    "expo-file-system": "~14.1.0",
+    "expo-sharing": "~10.3.0",
+    "expo-splash-screen": "~0.16.2",
     "expo-status-bar": "~1.4.4",
-    "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react": "18.0.0",
+    "react-dom": "^18.2.0",
+    "react-native": "0.69.9",
+    "react-native-camera": "^4.2.1",
+    "react-native-web": "~0.18.7",
+    "uuid": "^9.0.0",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
